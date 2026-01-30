@@ -46,20 +46,6 @@ Business contracts often contain complex legal terms that are difficult for non-
 
 ---
 
-## Project Structure
-
-contract-risk-analyzer/
-│
-├── app.py                 # Main Streamlit application
-├── README.md              # Project documentation
-│
-├── data/
-│   └── sample_contract.txt   # Example contract file
-│
-└── logs/
-    └── audit_log.json        # Audit trail (auto-generated)
-
----
 
 ## Steps to Run the Project
 
