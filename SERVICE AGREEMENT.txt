@@ -1,0 +1,40 @@
+SERVICE AGREEMENT
+
+This Service Agreement is made on 1st January 2026 between:
+
+ABC Technologies Pvt Ltd, having its registered office in Bangalore
+AND
+XYZ Solutions, having its office in Chennai.
+
+1. Scope of Services
+The Service Provider shall provide software development and maintenance services as requested by the Client.
+
+2. Payment Terms
+The Client shall pay the Service Provider a total amount of ₹5,00,000 within 30 days of invoice submission.
+
+3. Term and Duration
+This Agreement shall remain in force for a period of 3 years from the effective date.
+
+4. Termination
+The Client may terminate this Agreement at any time without prior notice.
+The Service Provider may terminate this Agreement only with 90 days prior written notice.
+
+5. Penalty
+If the Service Provider fails to meet delivery timelines, a penalty of ₹50,000 shall be imposed for each delay.
+
+6. Indemnity
+The Service Provider agrees to indemnify and hold harmless the Client from all losses, damages, and claims arising out of this Agreement.
+
+7. Confidentiality
+Both parties agree to keep all confidential information strictly confidential.
+
+8. Non-Compete
+The Service Provider shall not provide similar services to any competitor of the Client for a period of 2 years after termination.
+
+9. Jurisdiction
+This Agreement shall be governed by the laws of India and subject to the exclusive jurisdiction of the courts of Bangalore.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+ABC Technologies Pvt Ltd
+XYZ Solutions
